@@ -1,0 +1,21 @@
+{
+  "name": "LimePointing Works",
+  "short_name": "LimePointing",
+  "start_url": "../",
+  "scope": "../",
+  "display": "standalone",
+  "background_color": "#faf7f1",
+  "theme_color": "#121a38",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
